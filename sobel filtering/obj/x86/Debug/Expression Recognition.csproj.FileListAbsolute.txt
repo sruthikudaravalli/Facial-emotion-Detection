@@ -1,0 +1,30 @@
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\sobel filtering.exe
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\sobel filtering.pdb
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\bin\x86\Debug\sobel filtering.exe
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\bin\x86\Debug\sobel filtering.pdb
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\Expression Recognition.csprojResolveAssemblyReference.cache
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\CSharpFilters.Convolution.resources
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\sobel_filtering.Form1.resources
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\sobel_filtering.Form2.resources
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\sobel_filtering.Form_preview.resources
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\CSharpFilters.Parameter.resources
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\sobel_filtering.Properties.Resources.resources
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\Expression Recognition.csproj.GenerateResource.Cache
+C:\Users\kusumanjali\Desktop\Emotion Detection\sobel filtering\obj\x86\Debug\sobel filtering.exe
+C:\Users\kusumanjali\Desktop\Emotion Detection\sobel filtering\obj\x86\Debug\sobel filtering.pdb
+C:\Users\sruthi\Desktop\expression recognition project final\Emotion Detection\sobel filtering\bin\x86\Debug\sobel filtering.exe.config
+C:\Users\sruthi\Desktop\expression recognition project final\Emotion Detection\sobel filtering\obj\x86\Debug\sobel filtering.exe
+C:\Users\sruthi\Desktop\expression recognition project final\Emotion Detection\sobel filtering\obj\x86\Debug\sobel filtering.pdb
+C:\Users\sruthi\Desktop\expression recognition project final\Emotion Detection\sobel filtering\bin\x86\Debug\sobel filtering.exe
+C:\Users\sruthi\Desktop\expression recognition project final\Emotion Detection\sobel filtering\bin\x86\Debug\sobel filtering.pdb
+C:\Users\sruthi\Desktop\expression recognition project final\Emotion Detection\sobel filtering\obj\x86\Debug\Expression Recognition.csprojResolveAssemblyReference.cache
+C:\Users\sruthi\Desktop\expression recognition project final\Emotion Detection\sobel filtering\obj\x86\Debug\CSharpFilters.Convolution.resources
+C:\Users\sruthi\Desktop\expression recognition project final\Emotion Detection\sobel filtering\obj\x86\Debug\sobel_filtering.Form1.resources
+C:\Users\sruthi\Desktop\expression recognition project final\Emotion Detection\sobel filtering\obj\x86\Debug\sobel_filtering.Form2.resources
+C:\Users\sruthi\Desktop\expression recognition project final\Emotion Detection\sobel filtering\obj\x86\Debug\sobel_filtering.Form_preview.resources
+C:\Users\sruthi\Desktop\expression recognition project final\Emotion Detection\sobel filtering\obj\x86\Debug\CSharpFilters.Parameter.resources
+C:\Users\sruthi\Desktop\expression recognition project final\Emotion Detection\sobel filtering\obj\x86\Debug\sobel_filtering.Properties.Resources.resources
+C:\Users\sruthi\Desktop\expression recognition project final\Emotion Detection\sobel filtering\obj\x86\Debug\Expression Recognition.csproj.GenerateResource.Cache
+C:\Users\sruthi\Dropbox\MyStuff\MS projects\Apr Project Facial emotion detection-x86\expression recognition project final\Emotion Detection\sobel filtering\bin\x86\Debug\sobel filtering.exe.config
+C:\Users\sruthi\Dropbox\MyStuff\MS projects\Apr Project Facial emotion detection-x86\expression recognition project final\Emotion Detection\sobel filtering\obj\x86\Debug\sobel filtering.exe
+C:\Users\sruthi\Dropbox\MyStuff\MS projects\Apr Project Facial emotion detection-x86\expression recognition project final\Emotion Detection\sobel filtering\obj\x86\Debug\sobel filtering.pdb

@@ -1,0 +1,12 @@
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\bin\x86\Debug\sobel filtering.exe
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\bin\x86\Debug\sobel filtering.pdb
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\sobel filtering.csprojResolveAssemblyReference.cache
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\CSharpFilters.Convolution.resources
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\sobel_filtering.Form1.resources
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\sobel_filtering.Form2.resources
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\sobel_filtering.Form_preview.resources
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\CSharpFilters.Parameter.resources
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\sobel_filtering.Properties.Resources.resources
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\sobel filtering.csproj.GenerateResource.Cache
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\sobel filtering.exe
+C:\Users\kusumanjali\Desktop\Emotion Detaction\sobel filtering\obj\x86\Debug\sobel filtering.pdb
