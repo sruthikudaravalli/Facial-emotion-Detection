@@ -1,4 +1,6 @@
 # Facial-emotion-Detection
+Environment: Microsoft Visual Studio 2013, C#.NET, Windows 8.
+
 If the system have Visual studio 2013 installed:
 
 1. In the "emotion detection" folder,click on "Expression Recognition.sln" to open the code.
